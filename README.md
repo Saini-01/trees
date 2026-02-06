@@ -1,4 +1,4 @@
-### THIS IS VIBECODED
+# ts is vibecoded slop
 
 # Random Tree Generator
 
