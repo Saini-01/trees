@@ -1,5 +1,3 @@
-# ts is vibecoded slop
-
 # Random Tree Generator
 
 A Rust program to generate random trees for practicing recursive DFS algorithms.
